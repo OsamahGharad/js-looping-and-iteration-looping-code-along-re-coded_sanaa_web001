@@ -26,5 +26,5 @@ let cards =["Lisa", "Kaitlin", "Jan"];
 //   }
 //   return output;
 // }
-// 
+//
 // console.log(writeCards(["Lisa", "Kaitlin", "Jan"],"surprise"));
